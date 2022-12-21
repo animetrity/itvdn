@@ -4,16 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb9974f5-035c-4bea-87ab-243fd240bc88" name="Changes" comment="004">
-      <change afterPath="$PROJECT_DIR$/src/main/java/course_1/lesson_4/task_2/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/course_1/lesson_4/task_3/Interval.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/course_1/lesson_4/task_4/Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/course_1/lesson_4/task_5/Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/course_1/lesson_4/task_6/Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/course_1/lesson_4/task_7/DayCountOfMonth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/course_1/lesson_4/task_8/Translator.java" afterDir="false" />
+    <list default="true" id="eb9974f5-035c-4bea-87ab-243fd240bc88" name="Changes" comment="005">
+      <change afterPath="$PROJECT_DIR$/src/main/java/course_1/lesson_5/task_2/Parity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/course_1/lesson_5/task_3/LogicOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/course_1/lesson_5/task_4/Premium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/course_1/lesson_5/task_5/PowerOfTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/course_1/lesson_5/task_6/DeMorganComparison.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course_1/lesson_3/task_2/ArithmeticAverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/course_1/lesson_3/task_2/ArithmeticAverage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,13 +64,13 @@
       <recent name="$PROJECT_DIR$/src/java/course_1/lesson_1/task_2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Translator">
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.course_1.lesson_4.task_2.Calculator" />
+  <component name="RunManager" selected="Application.DeMorganComparison">
+    <configuration name="DeMorganComparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.course_1.lesson_5.task_6.DeMorganComparison" />
       <module name="itvdn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.course_1.lesson_4.task_2.*" />
+          <option name="PATTERN" value="main.java.course_1.lesson_5.task_6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Interval" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.course_1.lesson_4.task_3.Interval" />
+    <configuration name="LogicOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.course_1.lesson_5.task_3.LogicOperations" />
       <module name="itvdn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.course_1.lesson_4.task_3.*" />
+          <option name="PATTERN" value="main.java.course_1.lesson_5.task_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.course_1.lesson_4.task_5.Number" />
+    <configuration name="Parity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.course_1.lesson_5.task_2.Parity" />
       <module name="itvdn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.course_1.lesson_4.task_5.*" />
+          <option name="PATTERN" value="main.java.course_1.lesson_5.task_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Translator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.course_1.lesson_4.task_8.Translator" />
+    <configuration name="PowerOfTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.course_1.lesson_5.task_5.PowerOfTwo" />
       <module name="itvdn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.course_1.lesson_4.task_8.*" />
+          <option name="PATTERN" value="main.java.course_1.lesson_5.task_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main.java.course_1.lesson_4.task_6.Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.course_1.lesson_4.task_6.Number" />
+    <configuration name="Premium" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.course_1.lesson_5.task_4.Premium" />
       <module name="itvdn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.course_1.lesson_4.task_6.*" />
+          <option name="PATTERN" value="main.java.course_1.lesson_5.task_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Translator" />
-        <item itemvalue="Application.main.java.course_1.lesson_4.task_6.Number" />
-        <item itemvalue="Application.Number" />
-        <item itemvalue="Application.Interval" />
-        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.DeMorganComparison" />
+        <item itemvalue="Application.PowerOfTwo" />
+        <item itemvalue="Application.Premium" />
+        <item itemvalue="Application.LogicOperations" />
+        <item itemvalue="Application.Parity" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +152,7 @@
       <workItem from="1670933874548" duration="117000" />
       <workItem from="1670934031245" duration="304000" />
       <workItem from="1671044615769" duration="10358000" />
-      <workItem from="1671528307403" duration="6273000" />
+      <workItem from="1671528307403" duration="11145000" />
     </task>
     <task id="LOCAL-00001" summary="001">
       <created>1670933234358</created>
@@ -199,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671226606001</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="005">
+      <created>1671562301353</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1671562301353</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,6 +225,31 @@
     <MESSAGE value="002" />
     <MESSAGE value="003" />
     <MESSAGE value="004" />
-    <option name="LAST_COMMIT_MESSAGE" value="004" />
+    <MESSAGE value="005" />
+    <option name="LAST_COMMIT_MESSAGE" value="005" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/course_1/lesson_5/task_4/Premium.java</url>
+          <line>19</line>
+          <properties class="main.java.course_1.lesson_5.task_4.Premium" method="wageWorker">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/course_1/lesson_5/task_4/Premium.java</url>
+          <line>22</line>
+          <properties class="main.java.course_1.lesson_5.task_4.Premium" method="premiumForWorker">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
