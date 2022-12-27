@@ -4,79 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb9974f5-035c-4bea-87ab-243fd240bc88" name="Changes" comment="007">
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_8/task_2/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_8/task_3/Delivery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_8/task_4/Arifmetic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_8/task_5/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_9/task_2/CustomerArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_9/task_3/ReversedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_9/task_4/UserArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_9/task_5/ArrayLesson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_9/task_6/ArrayLesson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_9/task_7/Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_1/task_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_1/task_2/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_1/task_3/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_1/task_3/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_1/task_3/Content.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_1/task_3/Title.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_1/task_4/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_1/task_4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_1/task_5/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_1/task_5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_2/FromWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_2/inLeads.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_2/inLeadsCreate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_2/inLeadsCreate.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_2/inPays.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_2/result.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_2/resultLeadsCreate.txt" afterDir="false" />
+    <list default="true" id="eb9974f5-035c-4bea-87ab-243fd240bc88" name="Changes" comment="008">
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_2/task_2/Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_2/task_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_2/task_3/Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_2/task_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_2/task_4/Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_2/task_4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_2/task_5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_2/task_5/MyArea.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course_1/lesson_1/task_1/task.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_1/task_1/task.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course_1/lesson_1/task_2/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_1/task_2/Hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course_1/lesson_1/task_2/task.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_1/task_2/task.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course_1/lesson_1/task_3/Hi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_1/task_3/Hi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course_1/lesson_1/task_3/task.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_1/task_3/task.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course_1/lesson_1/task_4/Hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_1/task_4/Hello.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course_1/lesson_1/task_4/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_1/task_4/Hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course_1/lesson_1/task_4/task.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_1/task_4/task.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course_1/lesson_2/task_2/Task_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_2/task_2/Task_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course_1/lesson_2/task_3/Task_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_2/task_3/Task_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course_1/lesson_2/task_4/Task_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_2/task_4/Task_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course_1/lesson_2/task_5/Task_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_2/task_5/Task_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course_1/lesson_2/task_6/Task_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_2/task_6/Task_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course_1/lesson_3/task_2/ArithmeticAverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_3/task_2/ArithmeticAverage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course_1/lesson_3/task_3/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_3/task_3/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course_1/lesson_3/task_4/Volume.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_3/task_4/Volume.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course_1/lesson_3/task_5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_3/task_5/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course_1/lesson_3/task_6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_3/task_6/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course_1/lesson_4/task_2/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_4/task_2/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course_1/lesson_4/task_3/Interval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_4/task_3/Interval.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course_1/lesson_4/task_4/Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_4/task_4/Number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course_1/lesson_4/task_5/Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_4/task_5/Number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course_1/lesson_4/task_6/Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_4/task_6/Number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course_1/lesson_4/task_7/DayCountOfMonth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_4/task_7/DayCountOfMonth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course_1/lesson_4/task_8/Translator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_4/task_8/Translator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course_1/lesson_5/task_2/Parity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_5/task_2/Parity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course_1/lesson_5/task_3/LogicOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_5/task_3/LogicOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course_1/lesson_5/task_4/Premium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_5/task_4/Premium.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course_1/lesson_5/task_5/PowerOfTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_5/task_5/PowerOfTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course_1/lesson_5/task_6/DeMorganComparison.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_5/task_6/DeMorganComparison.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course_1/lesson_6/task_2/SumMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_6/task_2/SumMin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course_1/lesson_6/task_3/Printing_Shapes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_6/task_3/Printing_Shapes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course_1/lesson_6/task_4/Delivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_6/task_4/Delivery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course_1/lesson_6/task_5/SumMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_6/task_5/SumMax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course_1/lesson_6/task_6/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_6/task_6/Sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course_1/lesson_6/task_7/MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_6/task_7/MultiplicationTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course_1/lesson_6/task_8/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_6/task_8/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course_1/lesson_6/task_9/Fibonachi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_6/task_9/Fibonachi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course_1/lesson_7/task_2/Arithmetics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_7/task_2/Arithmetics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course_1/lesson_7/task_3/Conversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_7/task_3/Conversion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course_1/lesson_7/task_4/NumbersCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_7/task_4/NumbersCheck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course_1/lesson_7/task_5/PowerA3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_7/task_5/PowerA3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course_1/lesson_7/task_6/Power234.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_7/task_6/Power234.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course_1/lesson_7/task_7/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_7/task_7/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_2/FromWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/forWork/FromWork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_2/inLeads.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/forWork/inLeads.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_2/inLeadsCreate" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/forWork/inLeadsCreate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_2/inLeadsCreate.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/forWork/inLeadsCreate.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_2/inPays.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/forWork/inPays.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_2/result.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/forWork/result.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_2/resultLeadsCreate.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/forWork/resultLeadsCreate.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,40 +74,17 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/java/course_1/lesson_1/task_2" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/forWork" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.FromWork">
-    <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.java_1_Starter.lesson_9.task_7.Arrays" />
+  <component name="RunManager" selected="Application.main.java.java_3_Essential.lesson_2.task_5.Main">
+    <configuration name="Fibonachi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.java_1_Starter.lesson_6.task_9.Fibonachi" />
       <module name="itvdn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.java_1_Starter.lesson_9.task_7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Book" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.java_3_Essential.lesson_1.task_3.Book" />
-      <module name="itvdn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.java.java_3_Essential.lesson_1.task_3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FromWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.java_3_Essential.lesson_2.FromWork" />
-      <module name="itvdn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.java.java_3_Essential.lesson_2.*" />
+          <option name="PATTERN" value="main.java.java_1_Starter.lesson_6.task_9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,11 +93,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.java_3_Essential.lesson_1.task_2.Main" />
+      <option name="MAIN_CLASS_NAME" value="main.java.java_3_Essential.lesson_2.task_4.Main" />
       <module name="itvdn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.java_3_Essential.lesson_1.task_2.*" />
+          <option name="PATTERN" value="main.java.java_3_Essential.lesson_2.task_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,12 +105,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main.java.java_3_Essential.lesson_1.task_5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.java_3_Essential.lesson_1.task_5.Main" />
+    <configuration name="Printing_Shapes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.java_1_Starter.lesson_6.task_3.Printing_Shapes" />
       <module name="itvdn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.java_3_Essential.lesson_1.task_5.*" />
+          <option name="PATTERN" value="main.java.java_1_Starter.lesson_6.task_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.java.java_3_Essential.lesson_1.task_4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.java_3_Essential.lesson_1.task_4.Main" />
+      <module name="itvdn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.java_3_Essential.lesson_1.task_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.java.java_3_Essential.lesson_2.task_5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.java_3_Essential.lesson_2.task_5.Main" />
+      <module name="itvdn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.java_3_Essential.lesson_2.task_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FromWork" />
-        <item itemvalue="Application.main.java.java_3_Essential.lesson_1.task_5.Main" />
-        <item itemvalue="Application.Book" />
+        <item itemvalue="Application.main.java.java_3_Essential.lesson_2.task_5.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Arrays" />
+        <item itemvalue="Application.Printing_Shapes" />
+        <item itemvalue="Application.Fibonachi" />
+        <item itemvalue="Application.main.java.java_3_Essential.lesson_1.task_4.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +166,7 @@
       <workItem from="1670933874548" duration="117000" />
       <workItem from="1670934031245" duration="304000" />
       <workItem from="1671044615769" duration="10358000" />
-      <workItem from="1671528307403" duration="54375000" />
+      <workItem from="1671528307403" duration="61458000" />
     </task>
     <task id="LOCAL-00001" summary="001">
       <created>1670933234358</created>
@@ -284,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671753269922</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="008">
+      <created>1672002551415</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1672002551415</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -308,7 +262,8 @@
     <MESSAGE value="004" />
     <MESSAGE value="005" />
     <MESSAGE value="007" />
-    <option name="LAST_COMMIT_MESSAGE" value="007" />
+    <MESSAGE value="008" />
+    <option name="LAST_COMMIT_MESSAGE" value="008" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

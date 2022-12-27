@@ -1,4 +1,4 @@
-package main.java.java_3_Essential.lesson_2;
+package main.java.forWork;
 
 import java.io.*;
 import java.util.ArrayList;
