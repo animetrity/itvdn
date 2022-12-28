@@ -11,6 +11,5 @@ public class Power234 {
         c = a * a * a;
         d = a * a * a * a;
         System.out.println(a + " в степені 2 = " + b + ", в степені 3 = " + c + ", в степені 4 = " + d);
-
     }
 }

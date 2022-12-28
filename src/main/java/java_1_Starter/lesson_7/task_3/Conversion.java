@@ -12,8 +12,8 @@ public class Conversion {
         conversionData.get("USD").put("EUR", 0.941);
 
         conversionData.put("UAH",new HashMap<>());
-        conversionData.get("UAH").put("USD", 40.3500);
-        conversionData.get("UAH").put("EUR", 42.4000);
+        conversionData.get("UAH").put("USD", 0.027);
+        conversionData.get("UAH").put("EUR", 0.025);
 
         conversionData.put("EUR",new HashMap<>());
         conversionData.get("EUR").put("USD", 1.0335);

@@ -4,23 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb9974f5-035c-4bea-87ab-243fd240bc88" name="Changes" comment="008">
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_2/task_2/Auto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_2/task_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_2/task_3/Auto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_2/task_3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_2/task_4/Auto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_2/task_4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_2/task_5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_2/task_5/MyArea.java" afterDir="false" />
+    <list default="true" id="eb9974f5-035c-4bea-87ab-243fd240bc88" name="Changes" comment="009">
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_2/FromWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/forWork/FromWork.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_2/inLeads.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/forWork/inLeads.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_2/inLeadsCreate" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/forWork/inLeadsCreate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_2/inLeadsCreate.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/forWork/inLeadsCreate.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_2/inPays.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/forWork/inPays.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_2/result.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/forWork/result.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_2/resultLeadsCreate.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/forWork/resultLeadsCreate.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_7/task_3/Conversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_7/task_3/Conversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_7/task_6/Power234.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_1_Starter/lesson_7/task_6/Power234.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,13 +66,13 @@
       <recent name="$PROJECT_DIR$/src/main/java/forWork" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.main.java.java_3_Essential.lesson_2.task_5.Main">
-    <configuration name="Fibonachi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.java_1_Starter.lesson_6.task_9.Fibonachi" />
+  <component name="RunManager" selected="Application.Conversion">
+    <configuration name="Conversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.java_1_Starter.lesson_7.task_3.Conversion" />
       <module name="itvdn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.java_1_Starter.lesson_6.task_9.*" />
+          <option name="PATTERN" value="main.java.java_1_Starter.lesson_7.task_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Printing_Shapes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.java_1_Starter.lesson_6.task_3.Printing_Shapes" />
+    <configuration name="Power234" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.java_1_Starter.lesson_7.task_6.Power234" />
       <module name="itvdn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.java_1_Starter.lesson_6.task_3.*" />
+          <option name="PATTERN" value="main.java.java_1_Starter.lesson_7.task_6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main.java.java_3_Essential.lesson_1.task_4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.java_3_Essential.lesson_1.task_4.Main" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.java_3_Essential.Test" />
       <module name="itvdn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.java_3_Essential.lesson_1.task_4.*" />
+          <option name="PATTERN" value="main.java.java_3_Essential.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Conversion" />
+        <item itemvalue="Application.Power234" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.main.java.java_3_Essential.lesson_2.task_5.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Printing_Shapes" />
-        <item itemvalue="Application.Fibonachi" />
-        <item itemvalue="Application.main.java.java_3_Essential.lesson_1.task_4.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +154,7 @@
       <workItem from="1670933874548" duration="117000" />
       <workItem from="1670934031245" duration="304000" />
       <workItem from="1671044615769" duration="10358000" />
-      <workItem from="1671528307403" duration="61458000" />
+      <workItem from="1671528307403" duration="66258000" />
     </task>
     <task id="LOCAL-00001" summary="001">
       <created>1670933234358</created>
@@ -238,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672002551415</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="009">
+      <created>1672134444873</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1672134444873</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -263,7 +258,8 @@
     <MESSAGE value="005" />
     <MESSAGE value="007" />
     <MESSAGE value="008" />
-    <option name="LAST_COMMIT_MESSAGE" value="008" />
+    <MESSAGE value="009" />
+    <option name="LAST_COMMIT_MESSAGE" value="009" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
