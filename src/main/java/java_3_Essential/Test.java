@@ -5,16 +5,31 @@ public class Test {
         System.out.println("Програма пройшла компіляцію і успішно запустилась");
         Test test = new Test();
         //test.testInt();
-        test.req(0);
+        //test.req(0);
+
     }
 
+
+
+
     public void req(int a){
-        if (a > 10)return;
+        String b = "sdfsdfsdfsdfsdfsdf";
+        if (a > 9000){
+            try {
+                Thread.sleep(10000);
+            } catch (InterruptedException e) {
+                throw new RuntimeException(e);
+            }
+            return;
+        }
         else {
 
             System.out.println(a);
+
             req(a+1);
         }
+
+        System.out.println(a);
     }
     public void testInt(){
         Integer i = null;
