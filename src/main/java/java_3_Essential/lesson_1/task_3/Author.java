@@ -5,10 +5,11 @@ public class Author {
 
     private String text;
 
-    public void show(){
-        System.out.println("Автор = " + this.text);
-    }
     public Author(String text){
         this.text = text;
     }
+    public void show(){
+        System.out.println("Автор = " + this.text);
+    }
+
 }

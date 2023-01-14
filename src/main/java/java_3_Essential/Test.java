@@ -1,9 +1,10 @@
 package main.java.java_3_Essential;
 
-public class Test {
+public class Test extends Test2{
     public static void main(String[] args) {
         System.out.println("Програма пройшла компіляцію і успішно запустилась");
         Test test = new Test();
+        //test.a = "sdf";
         //test.testInt();
         //test.req(0);
 
