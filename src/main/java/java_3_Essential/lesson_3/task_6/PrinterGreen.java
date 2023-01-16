@@ -1,4 +1,4 @@
-package main.java.java_3_Essential.lesson_3.task_3;
+package main.java.java_3_Essential.lesson_3.task_6;
 
 public class PrinterGreen extends Printer{
     private final String GREEN = "\u001B[32m";

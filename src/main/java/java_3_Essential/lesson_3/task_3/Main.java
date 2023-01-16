@@ -2,15 +2,12 @@ package main.java.java_3_Essential.lesson_3.task_3;
 
 public class Main {
     public static void main(String[] args) {
-        Printer[] printers = new Printer[]{
-                new PrinterBlue(),
-                new PrinterGreen(),
-                new PrinterYellow(),
-                new Printer()
-        };
+        Car car = new Car(34543,556546,5000,120,1995);
+        Plane plane = new Plane(6756,456456,7000,350,2000,50,10);
+        Ship ship = new Ship(12312,765676,20000,150,2005,50,"NewYork port");
 
-        for (int i = 0; i < printers.length; i++) {
-            printers[i].print("some text");
-        }
+        System.out.println(car);
+        System.out.println(plane);
+        System.out.println(ship);
     }
 }

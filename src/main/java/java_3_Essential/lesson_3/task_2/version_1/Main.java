@@ -11,6 +11,7 @@ public class Main {
 
         for (int i = 0; i < classRoom.pupils.size(); i++) {
             classRoom.pupils.get(i).read();
+            System.out.println(classRoom.pupils.get(i).getClass());
             classRoom.pupils.get(i).relax();
             classRoom.pupils.get(i).write();
             classRoom.pupils.get(i).study();

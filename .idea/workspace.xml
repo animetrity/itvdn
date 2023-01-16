@@ -4,36 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb9974f5-035c-4bea-87ab-243fd240bc88" name="Changes" comment="009">
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_3/task_2/version_1/BadPupil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_3/task_2/version_1/ClassRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_3/task_2/version_1/ExecelentPupil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_3/task_2/version_1/GoodPupil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_3/task_2/version_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_3/task_2/version_1/Pupil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_3/task_2/version_2/BadPupil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_3/task_2/version_2/ClassRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_3/task_2/version_2/ExecelentPupil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_3/task_2/version_2/GoodPupil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_3/task_2/version_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_3/task_2/version_2/Pupil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_3/task_2/version_3/BadPupil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_3/task_2/version_3/ClassRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_3/task_2/version_3/ExecelentPupil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_3/task_2/version_3/GoodPupil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_3/task_2/version_3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_3/task_2/version_3/Pupil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_3/task_3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_3/task_3/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_3/task_3/PrinterBlue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_3/task_3/PrinterGreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_3/task_3/PrinterYellow.java" afterDir="false" />
+    <list default="true" id="eb9974f5-035c-4bea-87ab-243fd240bc88" name="Changes" comment="010">
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_3/task_3/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_3/task_3/Plane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_3/task_3/Ship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_3/task_3/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_3/task_4/DocumentWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_3/task_4/ExpertDocumentWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_3/task_4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_3/task_4/ProDocumentWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_3/task_6/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_3_Essential/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_1/task_3/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_1/task_3/Author.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_1/task_3/Content.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_1/task_3/Content.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_1/task_3/Title.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_1/task_3/Title.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_3_Essential/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_3/task_2/version_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_3/task_2/version_1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_3/task_3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_3/task_3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_3/task_3/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_3/task_6/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_3/task_3/PrinterBlue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_3/task_6/PrinterBlue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_3/task_3/PrinterGreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_3/task_6/PrinterGreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_3/task_3/PrinterYellow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_3/task_6/PrinterYellow.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,60 +81,8 @@
       <recent name="$PROJECT_DIR$/src/main/java/forWork" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.main.java.java_3_Essential.lesson_3.task_3.Main">
-    <configuration name="ClassRoom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.java_3_Essential.lesson_3.task_2.version_1.ClassRoom" />
-      <module name="itvdn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.java.java_3_Essential.lesson_3.task_2.version_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.main.java.java_3_Essential.lesson_3.task_4.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.java_3_Essential.lesson_3.task_2.version_1.Main" />
-      <module name="itvdn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.java.java_3_Essential.lesson_3.task_2.version_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.java_3_Essential.Test2" />
-      <module name="itvdn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.java.java_3_Essential.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="main.java.java_3_Essential.lesson_3.task_2.version_2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.java_3_Essential.lesson_3.task_2.version_2.Main" />
-      <module name="itvdn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.java.java_3_Essential.lesson_3.task_2.version_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="main.java.java_3_Essential.lesson_3.task_3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.java_3_Essential.lesson_3.task_3.Main" />
       <module name="itvdn" />
       <extension name="coverage">
@@ -159,13 +95,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PrinterBlue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.java_3_Essential.lesson_3.task_6.PrinterBlue" />
+      <module name="itvdn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.java_3_Essential.lesson_3.task_6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.java_3_Essential.Test2" />
+      <module name="itvdn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.java_3_Essential.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.java.java_3_Essential.lesson_3.task_2.version_1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.java_3_Essential.lesson_3.task_2.version_1.Main" />
+      <module name="itvdn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.java_3_Essential.lesson_3.task_2.version_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.java.java_3_Essential.lesson_3.task_4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.java_3_Essential.lesson_3.task_4.Main" />
+      <module name="itvdn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.java_3_Essential.lesson_3.task_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.main.java.java_3_Essential.lesson_3.task_3.Main" />
-        <item itemvalue="Application.main.java.java_3_Essential.lesson_3.task_2.version_2.Main" />
-        <item itemvalue="Application.ClassRoom" />
+        <item itemvalue="Application.main.java.java_3_Essential.lesson_3.task_4.Main" />
+        <item itemvalue="Application.main.java.java_3_Essential.lesson_3.task_2.version_1.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Test2 (1)" />
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.PrinterBlue" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +175,7 @@
       <workItem from="1673473303885" duration="599000" />
       <workItem from="1673552182072" duration="297000" />
       <workItem from="1673630376396" duration="5609000" />
-      <workItem from="1673715608897" duration="1483000" />
+      <workItem from="1673715608897" duration="11401000" />
     </task>
     <task id="LOCAL-00001" summary="001">
       <created>1670933234358</created>
@@ -280,7 +268,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673294447234</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="010">
+      <created>1673717167904</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1673717167904</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -306,7 +301,8 @@
     <MESSAGE value="007" />
     <MESSAGE value="008" />
     <MESSAGE value="009" />
-    <option name="LAST_COMMIT_MESSAGE" value="009" />
+    <MESSAGE value="010" />
+    <option name="LAST_COMMIT_MESSAGE" value="010" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
