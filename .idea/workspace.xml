@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb9974f5-035c-4bea-87ab-243fd240bc88" name="Changes" comment="012">
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_4/task_3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_4/task_3/Playable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_4/task_3/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_4/task_3/Recodable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_4/task_4/oracle.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_4/task_5/ConverterTemperature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_4/task_5/ConverterTemperatureFahrenheit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_4/task_5/ConverterTemperatureKelvin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_4/task_5/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,13 +72,13 @@
       <recent name="$PROJECT_DIR$/src/main/java/forWork" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.main.java.java_3_Essential.lesson_4.task_3.Main">
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.java_3_Essential.Test" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.java_3_Essential.lesson_4.task_5.Main" />
       <module name="itvdn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.java_3_Essential.*" />
+          <option name="PATTERN" value="main.java.java_3_Essential.lesson_4.task_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main.java.java_3_Essential.lesson_3.task_2.version_1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.java_3_Essential.lesson_3.task_2.version_1.Main" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.java_3_Essential.Test" />
       <module name="itvdn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.java_3_Essential.lesson_3.task_2.version_1.*" />
+          <option name="PATTERN" value="main.java.java_3_Essential.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.main.java.java_3_Essential.lesson_4.task_3.Main" />
         <item itemvalue="Application.main.java.java_3_Essential.lesson_4.task_2.Main" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.main.java.java_3_Essential.lesson_3.task_4.Main" />
-        <item itemvalue="Application.main.java.java_3_Essential.lesson_3.task_2.version_1.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +169,7 @@
       <workItem from="1673715608897" duration="12609000" />
       <workItem from="1674067292543" duration="1303000" />
       <workItem from="1674163860149" duration="786000" />
-      <workItem from="1674164779229" duration="3467000" />
+      <workItem from="1674164779229" duration="4481000" />
     </task>
     <task id="LOCAL-00001" summary="001">
       <created>1670933234358</created>
@@ -282,7 +283,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674167195265</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="012">
+      <created>1674168461522</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1674168461522</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

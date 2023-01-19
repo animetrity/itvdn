@@ -1,0 +1,9 @@
+Абстрактні класи abstract
+https://docs.oracle.com/javase/tutorial/java/IandI/abstract.html
+
+Інтерфейси
+https://docs.oracle.com/javase/tutorial/java/IandI/createinterface.html
+
+Множинне успадковання
+https://docs.oracle.com/javase/tutorial/java/IandI/multipleinheritance.html
+
