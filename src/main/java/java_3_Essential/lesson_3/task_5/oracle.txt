@@ -1,0 +1,19 @@
+https://docs.oracle.com/javase/8/docs/api/
+
+
+Поліморфізм
+https://docs.oracle.com/javase/tutorial/java/IandI/polymorphism.html
+Модифікатори доступу
+https://docs.oracle.com/javase/tutorial/java/javaOO/variables.html
+Успадкування
+https://docs.oracle.com/javase/tutorial/java/IandI/subclasses.html
+
+Конструктори
+https://docs.oracle.com/javase/tutorial/java/javaOO/constructors.html
+
+Вкладені класи
+https://docs.oracle.com/javase/tutorial/java/javaOO/innerclasses.html
+
+upcast/downcast
+5.1.6.3. Narrowing Reference Conversions at Run Time
+https://docs.oracle.com/javase/specs/jls/se11/html/jls-5.html
