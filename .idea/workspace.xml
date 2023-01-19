@@ -4,16 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb9974f5-035c-4bea-87ab-243fd240bc88" name="Changes" comment="011">
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_3/task_5/oracle.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_4/task_2/AbstractHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_4/task_2/DOCHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_4/task_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_4/task_2/TXTHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_4/task_2/XMLHandler.java" afterDir="false" />
+    <list default="true" id="eb9974f5-035c-4bea-87ab-243fd240bc88" name="Changes" comment="012">
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_4/task_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_4/task_3/Playable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_4/task_3/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_4/task_3/Recodable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_3_Essential/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_3_Essential/Test2.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,20 +71,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/forWork" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.main.java.java_3_Essential.lesson_4.task_2.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.java_3_Essential.lesson_3.task_3.Main" />
-      <module name="itvdn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.java.java_3_Essential.lesson_3.task_3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.main.java.java_3_Essential.lesson_4.task_3.Main">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.java_3_Essential.Test" />
       <module name="itvdn" />
@@ -141,13 +124,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="main.java.java_3_Essential.lesson_4.task_3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.java_3_Essential.lesson_4.task_3.Main" />
+      <module name="itvdn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.java_3_Essential.lesson_4.task_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main.java.java_3_Essential.lesson_4.task_3.Main" />
         <item itemvalue="Application.main.java.java_3_Essential.lesson_4.task_2.Main" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.main.java.java_3_Essential.lesson_3.task_4.Main" />
         <item itemvalue="Application.main.java.java_3_Essential.lesson_3.task_2.version_1.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +168,7 @@
       <workItem from="1673715608897" duration="12609000" />
       <workItem from="1674067292543" duration="1303000" />
       <workItem from="1674163860149" duration="786000" />
-      <workItem from="1674164779229" duration="2154000" />
+      <workItem from="1674164779229" duration="3467000" />
     </task>
     <task id="LOCAL-00001" summary="001">
       <created>1670933234358</created>
@@ -279,7 +275,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673892453843</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="012">
+      <created>1674167195265</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1674167195265</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -307,7 +310,8 @@
     <MESSAGE value="009" />
     <MESSAGE value="010" />
     <MESSAGE value="011" />
-    <option name="LAST_COMMIT_MESSAGE" value="011" />
+    <MESSAGE value="012" />
+    <option name="LAST_COMMIT_MESSAGE" value="012" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
