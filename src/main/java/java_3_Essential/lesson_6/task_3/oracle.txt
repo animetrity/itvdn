@@ -1,0 +1,11 @@
+Енам
+https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html
+
+Анонімні класси
+https://docs.oracle.com/javase/tutorial/java/javaOO/anonymousclasses.html
+
+Локальні класси
+https://docs.oracle.com/javase/tutorial/java/javaOO/localclasses.html
+
+Вкладені класи
+https://docs.oracle.com/javase/tutorial/java/javaOO/innerclasses.html

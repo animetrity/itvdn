@@ -5,12 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb9974f5-035c-4bea-87ab-243fd240bc88" name="Changes" comment="012">
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_4/task_4/oracle.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_4/task_5/ConverterTemperature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_4/task_5/ConverterTemperatureFahrenheit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_4/task_5/ConverterTemperatureKelvin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_4/task_5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_5/task_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_5/task_2/Zoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_5/task_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_5/task_4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_5/task_5/Friends.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_5/task_5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_5/task_6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_5/task_6/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_6/task_2/Animals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_6/task_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_6/task_3/oracle.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_6/task_4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_6/task_4/Vehicles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_7/task_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_7/task_2/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_7/task_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_7/task_3/Price.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_7/task_5/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_7/task_5/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_3_Essential/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +36,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -41,25 +57,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/logrog/IdeaProjects/itvdn/src/main/java/java_3_Essential/lesson_9",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.editor",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/logrog/IdeaProjects/itvdn/src/main/java/java_3_Essential/lesson_9&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_9" />
@@ -72,13 +88,13 @@
       <recent name="$PROJECT_DIR$/src/main/java/forWork" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.java_3_Essential.lesson_4.task_5.Main" />
+      <option name="MAIN_CLASS_NAME" value="main.java.java_3_Essential.lesson_6.task_2.Main" />
       <module name="itvdn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.java_3_Essential.lesson_4.task_5.*" />
+          <option name="PATTERN" value="main.java.java_3_Essential.lesson_6.task_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main.java.java_3_Essential.lesson_3.task_4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.java_3_Essential.lesson_3.task_4.Main" />
+    <configuration name="main.java.java_3_Essential.lesson_7.task_2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.java_3_Essential.lesson_7.task_2.Main" />
       <module name="itvdn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.java_3_Essential.lesson_3.task_4.*" />
+          <option name="PATTERN" value="main.java.java_3_Essential.lesson_7.task_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main.java.java_3_Essential.lesson_4.task_2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.java_3_Essential.lesson_4.task_2.Main" />
+    <configuration name="main.java.java_3_Essential.lesson_7.task_3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.java_3_Essential.lesson_7.task_3.Main" />
       <module name="itvdn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.java_3_Essential.lesson_4.task_2.*" />
+          <option name="PATTERN" value="main.java.java_3_Essential.lesson_7.task_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main.java.java_3_Essential.lesson_4.task_3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.java_3_Essential.lesson_4.task_3.Main" />
+    <configuration name="main.java.java_3_Essential.lesson_7.task_5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.java_3_Essential.lesson_7.task_5.Main" />
       <module name="itvdn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.java_3_Essential.lesson_4.task_3.*" />
+          <option name="PATTERN" value="main.java.java_3_Essential.lesson_7.task_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.main.java.java_3_Essential.lesson_4.task_3.Main" />
-        <item itemvalue="Application.main.java.java_3_Essential.lesson_4.task_2.Main" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.main.java.java_3_Essential.lesson_3.task_4.Main" />
+        <item itemvalue="Application.main.java.java_3_Essential.lesson_7.task_5.Main" />
+        <item itemvalue="Application.main.java.java_3_Essential.lesson_7.task_3.Main" />
+        <item itemvalue="Application.main.java.java_3_Essential.lesson_7.task_2.Main" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +185,8 @@
       <workItem from="1673715608897" duration="12609000" />
       <workItem from="1674067292543" duration="1303000" />
       <workItem from="1674163860149" duration="786000" />
-      <workItem from="1674164779229" duration="4481000" />
+      <workItem from="1674164779229" duration="9561000" />
+      <workItem from="1674308827757" duration="26917000" />
     </task>
     <task id="LOCAL-00001" summary="001">
       <created>1670933234358</created>
@@ -290,7 +307,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674168461522</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="012">
+      <created>1674169447409</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1674169447409</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
