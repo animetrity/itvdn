@@ -19,6 +19,7 @@ public class Arifmetic {
     }
     public static void maxMinAve(double a, double b, double c){
         double max, min, ave;
+
         if(a > b && a > c)max = a;
         else if(b > a && b > c)max = b;
         else max = c;

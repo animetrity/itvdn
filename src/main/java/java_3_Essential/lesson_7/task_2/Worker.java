@@ -5,7 +5,7 @@ public class Worker {
         return fio;
     }
 
-    String fio;
-    String nameWork;
-    int year;
+    public String fio;
+    public String nameWork;
+    public int year;
 }

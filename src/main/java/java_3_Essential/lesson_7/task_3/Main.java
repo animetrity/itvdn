@@ -24,14 +24,24 @@ public class Main {
 
         System.out.println("введіть назву магазину для пошуку");
         String nameShop = br.readLine();
-        boolean exception = true;
+
+
+       int count = 0;
+
         for (int i = 0; i < list.size(); i++) {
+
             if(list.get(i).nameShop.equals(nameShop)){
                 System.out.println(list.get(i));
-                if(exception)exception = false;
+                count++;
             }
         }
-        if(exception)throw new IOException();
+
+        if(count == 0){
+            throw new IOException();
+        }
+
+
+
 
 
 
