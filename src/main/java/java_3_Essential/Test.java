@@ -6,21 +6,23 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Test{
+public class Test {
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        int size = scanner.nextInt();
+        int biggestNumber = 0;
+        for (int i = 0; i < size; i++) {
+            int number = scanner.nextInt();
+            if (number % 4 == 0 && number > biggestNumber) {
+                biggestNumber = number;
+            }
+        }
+        System.out.println(biggestNumber);
 
-
-        Worker worker1 = new Worker();
-        Worker worker2 = new Worker();
-
-        worker1.year = 12;
-        worker2.year = 12;
-
-
-        System.out.println(worker1.equals(worker2));
 
 
     }
+
 
 }
