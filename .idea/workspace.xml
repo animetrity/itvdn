@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb9974f5-035c-4bea-87ab-243fd240bc88" name="Changes" comment="014">
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_1/task_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_1/task_3/interface_comparable/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_1/task_3/interface_comparable/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_1/task_3/interface_comparator_with_anonymous/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_1/task_3/interface_comparator_with_anonymous/Main.java" afterDir="false" />
+    <list default="true" id="eb9974f5-035c-4bea-87ab-243fd240bc88" name="Changes" comment="015">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_1/task_3/interface_comparable/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_1/task_3/interface_comparable/Car.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +69,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/forWork" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.main.java.java_4_Professionall.lesson_1.task_3.interface_comparable.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.java_4_Professionall.lesson_1.task_2.Main" />
       <module name="itvdn" />
@@ -113,19 +109,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main.java.java_3_Essential.lesson_9.task_3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.java_3_Essential.lesson_9.task_3.Main" />
-      <module name="itvdn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.java.java_3_Essential.lesson_9.task_3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="main.java.java_3_Essential.lesson_9.task_5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.java_3_Essential.lesson_9.task_5.Main" />
       <module name="itvdn" />
@@ -139,13 +122,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="main.java.java_4_Professionall.lesson_1.task_3.interface_comparable.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.java_4_Professionall.lesson_1.task_3.interface_comparable.Main" />
+      <module name="itvdn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.java_4_Professionall.lesson_1.task_3.interface_comparable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main.java.java_4_Professionall.lesson_1.task_3.interface_comparable.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.MyClass1" />
         <item itemvalue="Application.main.java.java_3_Essential.lesson_9.task_5.Main" />
         <item itemvalue="Application.MyClass" />
-        <item itemvalue="Application.main.java.java_3_Essential.lesson_9.task_3.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +170,7 @@
       <workItem from="1674308827757" duration="49294000" />
       <workItem from="1674927760628" duration="15458000" />
       <workItem from="1675098237564" duration="5152000" />
-      <workItem from="1675254680328" duration="2962000" />
+      <workItem from="1675254680328" duration="4826000" />
     </task>
     <task id="LOCAL-00001" summary="001">
       <created>1670933234358</created>
@@ -330,7 +326,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675348673340</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="015">
+      <created>1675356748743</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1675356748743</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -361,7 +364,8 @@
     <MESSAGE value="012" />
     <MESSAGE value="013" />
     <MESSAGE value="014" />
-    <option name="LAST_COMMIT_MESSAGE" value="014" />
+    <MESSAGE value="015" />
+    <option name="LAST_COMMIT_MESSAGE" value="015" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

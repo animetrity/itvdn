@@ -26,15 +26,10 @@ public class Car implements Comparable { //<Car>{
                 temp = this.model.compareTo(((Car)o).model);
                 if(temp == 0){
                     return this.color.compareTo(((Car)o).color);
-                }else{
-                    return temp;
                 }
-            }else{
-                return temp;
             }
-        } else {
-            return temp;
         }
+        return temp;
     }
 
     // Сравнение 2-х строковых значений
