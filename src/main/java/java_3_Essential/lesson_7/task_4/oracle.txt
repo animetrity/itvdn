@@ -1,0 +1,8 @@
+Обробка винятків
+https://docs.oracle.com/javase/tutorial/essential/exceptions/
+
+Клас Exception.
+http://docs.oracle.com/javase/7/docs/api/java/lang/Exception.html
+
+try – catch
+https://docs.oracle.com/javase/tutorial/essential/exceptions/handling.html

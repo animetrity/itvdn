@@ -1,0 +1,6 @@
+Універсальні шаблони
+https://docs.oracle.com/javase/tutorial/java/generics/
+Універсальні методи
+https://docs.oracle.com/javase/tutorial/java/generics/methods.html
+Обмеження параметрів типу
+https://docs.oracle.com/javase/tutorial/java/generics/boundedTypeParams.html

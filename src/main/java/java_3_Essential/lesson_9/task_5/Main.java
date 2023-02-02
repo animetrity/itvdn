@@ -5,6 +5,4 @@ public class Main {
         System.out.println(MyClass2.factoryMethod(String.class));
     }
 
-    public void test() {
-    }
 }

@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb9974f5-035c-4bea-87ab-243fd240bc88" name="Changes" comment="013">
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_9/task_3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_9/task_3/MyDictionary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_9/task_4/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_9/task_5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_9/task_5/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_9/task_5/MyClass1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_9/task_5/MyClass2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_3_Essential/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/Test.java" afterDir="false" />
+    <list default="true" id="eb9974f5-035c-4bea-87ab-243fd240bc88" name="Changes" comment="014">
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_7/task_4/oracle.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_9/task_4/MyClass.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +170,7 @@
       <workItem from="1674308827757" duration="49294000" />
       <workItem from="1674927760628" duration="15458000" />
       <workItem from="1675098237564" duration="5152000" />
-      <workItem from="1675254680328" duration="603000" />
+      <workItem from="1675254680328" duration="936000" />
     </task>
     <task id="LOCAL-00001" summary="001">
       <created>1670933234358</created>
@@ -319,7 +312,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674769674680</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="014">
+      <created>1675348311486</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1675348311486</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -349,7 +349,8 @@
     <MESSAGE value="011" />
     <MESSAGE value="012" />
     <MESSAGE value="013" />
-    <option name="LAST_COMMIT_MESSAGE" value="013" />
+    <MESSAGE value="014" />
+    <option name="LAST_COMMIT_MESSAGE" value="014" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
