@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb9974f5-035c-4bea-87ab-243fd240bc88" name="Changes" comment="015">
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_2/task_2/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_2/task_2/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_2/task_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_2/task_4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_2/task_5/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_1/task_3/interface_comparable/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_1/task_3/interface_comparable/Car.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,25 +42,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/logrog/IdeaProjects/itvdn/src/main/java/java_4_Professionall/lesson_1/task_3",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/logrog/IdeaProjects/itvdn/src/main/java/java_4_Professionall/lesson_1/task_3&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_1/task_3" />
@@ -69,13 +73,13 @@
       <recent name="$PROJECT_DIR$/src/main/java/forWork" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.main.java.java_4_Professionall.lesson_1.task_3.interface_comparable.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.java_4_Professionall.lesson_1.task_2.Main" />
+      <option name="MAIN_CLASS_NAME" value="main.java.java_4_Professionall.lesson_2.task_5.Main" />
       <module name="itvdn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.java_4_Professionall.lesson_1.task_2.*" />
+          <option name="PATTERN" value="main.java.java_4_Professionall.lesson_2.task_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.java_3_Essential.lesson_9.task_5.MyClass" />
+    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.java_4_Professionall.lesson_2.task_2.Main1" />
       <module name="itvdn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.java_3_Essential.lesson_9.task_5.*" />
+          <option name="PATTERN" value="main.java.java_4_Professionall.lesson_2.task_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyClass1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.java_3_Essential.lesson_9.task_5.MyClass1" />
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.java_4_Professionall.lesson_2.task_2.Main2" />
       <module name="itvdn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.java_3_Essential.lesson_9.task_5.*" />
+          <option name="PATTERN" value="main.java.java_4_Professionall.lesson_2.task_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main.java.java_3_Essential.lesson_9.task_5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.java_3_Essential.lesson_9.task_5.Main" />
+    <configuration name="main.java.java_4_Professionall.lesson_2.task_3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.java_4_Professionall.lesson_2.task_3.Main" />
       <module name="itvdn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.java_3_Essential.lesson_9.task_5.*" />
+          <option name="PATTERN" value="main.java.java_4_Professionall.lesson_2.task_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main.java.java_4_Professionall.lesson_1.task_3.interface_comparable.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.java_4_Professionall.lesson_1.task_3.interface_comparable.Main" />
+    <configuration name="main.java.java_4_Professionall.lesson_2.task_4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.java_4_Professionall.lesson_2.task_4.Main" />
       <module name="itvdn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.java_4_Professionall.lesson_1.task_3.interface_comparable.*" />
+          <option name="PATTERN" value="main.java.java_4_Professionall.lesson_2.task_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.main.java.java_4_Professionall.lesson_1.task_3.interface_comparable.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.MyClass1" />
-        <item itemvalue="Application.main.java.java_3_Essential.lesson_9.task_5.Main" />
-        <item itemvalue="Application.MyClass" />
+        <item itemvalue="Application.main.java.java_4_Professionall.lesson_2.task_4.Main" />
+        <item itemvalue="Application.main.java.java_4_Professionall.lesson_2.task_3.Main" />
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.Main1" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +174,8 @@
       <workItem from="1674308827757" duration="49294000" />
       <workItem from="1674927760628" duration="15458000" />
       <workItem from="1675098237564" duration="5152000" />
-      <workItem from="1675254680328" duration="4826000" />
+      <workItem from="1675254680328" duration="5431000" />
+      <workItem from="1675596840635" duration="4090000" />
     </task>
     <task id="LOCAL-00001" summary="001">
       <created>1670933234358</created>
@@ -333,7 +338,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675356748743</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="015">
+      <created>1675374804496</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1675374804496</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
