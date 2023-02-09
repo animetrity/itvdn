@@ -4,11 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb9974f5-035c-4bea-87ab-243fd240bc88" name="Changes" comment="015">
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_3/task_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_3/task_3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_3/task_4/Main.java" afterDir="false" />
+    <list default="true" id="eb9974f5-035c-4bea-87ab-243fd240bc88" name="Changes" comment="016">
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_4/task_2/Descryptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_4/task_2/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_4/task_2/fileold.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_4/task_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_4/task_4/DeamonThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_4/task_4/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_3/task_4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_3/task_4/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,44 +46,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/logrog/IdeaProjects/itvdn/src/main/java/java_4_Professionall/lesson_1/task_3&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/logrog/IdeaProjects/itvdn/src/main/java/java_4_Professionall/lesson_4/task_2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_4/task_2" />
       <recent name="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_1/task_3" />
       <recent name="$PROJECT_DIR$/src/main/java/java_3_Essential" />
       <recent name="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_9" />
       <recent name="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_8" />
-      <recent name="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_7" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_3/task_4/resources" />
       <recent name="$PROJECT_DIR$/src/main/java/forWork" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.main.java.java_4_Professionall.lesson_3.task_3.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.java_4_Professionall.lesson_2.task_5.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Descryptor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.java_4_Professionall.lesson_4.task_2.Descryptor" />
       <module name="itvdn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.java_4_Professionall.lesson_2.task_5.*" />
+          <option name="PATTERN" value="main.java.java_4_Professionall.lesson_4.task_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main.java.java_4_Professionall.lesson_2.task_4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.java_4_Professionall.lesson_2.task_4.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.java_4_Professionall.lesson_4.task_3.Main" />
       <module name="itvdn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.java_4_Professionall.lesson_2.task_4.*" />
+          <option name="PATTERN" value="main.java.java_4_Professionall.lesson_4.task_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main.java.java_4_Professionall.lesson_3.task_4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.java_4_Professionall.lesson_3.task_4.Main" />
+    <configuration name="main.java.java_4_Professionall.lesson_4.task_4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.java_4_Professionall.lesson_4.task_4.Main" />
       <module name="itvdn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.java_4_Professionall.lesson_3.task_4.*" />
+          <option name="PATTERN" value="main.java.java_4_Professionall.lesson_4.task_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Descryptor" />
+        <item itemvalue="Application.main.java.java_4_Professionall.lesson_4.task_4.Main" />
         <item itemvalue="Application.main.java.java_4_Professionall.lesson_3.task_3.Main" />
         <item itemvalue="Application.main.java.java_4_Professionall.lesson_3.task_2.Main" />
-        <item itemvalue="Application.main.java.java_4_Professionall.lesson_3.task_4.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.main.java.java_4_Professionall.lesson_2.task_4.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +182,8 @@
       <workItem from="1675254680328" duration="5431000" />
       <workItem from="1675596840635" duration="4090000" />
       <workItem from="1675802441778" duration="615000" />
-      <workItem from="1675855198872" duration="1624000" />
+      <workItem from="1675855198872" duration="3495000" />
+      <workItem from="1675973052884" duration="28000" />
     </task>
     <task id="LOCAL-00001" summary="001">
       <created>1670933234358</created>
@@ -345,7 +353,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675374804496</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="016">
+      <created>1675857622056</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1675857622056</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -377,7 +392,8 @@
     <MESSAGE value="013" />
     <MESSAGE value="014" />
     <MESSAGE value="015" />
-    <option name="LAST_COMMIT_MESSAGE" value="015" />
+    <MESSAGE value="016" />
+    <option name="LAST_COMMIT_MESSAGE" value="016" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
