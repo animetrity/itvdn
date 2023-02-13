@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb9974f5-035c-4bea-87ab-243fd240bc88" name="Changes" comment="017">
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_2_Git/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_2_Git/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_5/task_3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_5/task_3/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+    <list default="true" id="eb9974f5-035c-4bea-87ab-243fd240bc88" name="Changes" comment="019">
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_5/task_4/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_5/task_4/Cat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_4/task_2/Descryptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_4/task_2/Descryptor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,13 +72,13 @@
       <recent name="$PROJECT_DIR$/src/main/java/forWork" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.main.java.java_4_Professionall.lesson_5.task_3.Main">
-    <configuration name="Descryptor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.java_4_Professionall.lesson_4.task_2.Descryptor" />
+  <component name="RunManager" selected="Application.Cat">
+    <configuration name="Cat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.java_4_Professionall.lesson_5.task_4.Cat" />
       <module name="itvdn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.java_4_Professionall.lesson_4.task_2.*" />
+          <option name="PATTERN" value="main.java.java_4_Professionall.lesson_5.task_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Cat" />
         <item itemvalue="Application.main.java.java_4_Professionall.lesson_5.task_3.Main" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.main.java.java_4_Professionall.lesson_4.task_4.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Descryptor" />
       </list>
     </recent_temporary>
   </component>
@@ -365,7 +361,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675985086775</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="018">
+      <created>1676305804062</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1676305804062</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -399,7 +402,9 @@
     <MESSAGE value="015" />
     <MESSAGE value="016" />
     <MESSAGE value="017" />
-    <option name="LAST_COMMIT_MESSAGE" value="017" />
+    <MESSAGE value="018" />
+    <MESSAGE value="019" />
+    <option name="LAST_COMMIT_MESSAGE" value="019" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
