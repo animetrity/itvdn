@@ -1,4 +1,4 @@
-package main.java;
+package java_2_Git;
 
 import java.io.BufferedReader;
 import java.io.IOException;
