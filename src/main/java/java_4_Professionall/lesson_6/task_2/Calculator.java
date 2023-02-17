@@ -3,7 +3,7 @@ package main.java.java_4_Professionall.lesson_6.task_2;
  * @author Anatolii Kosiuta
  * @version 1.0
  */
-@CalculatorParams(firstParam = 2, secondParam = 5)
+
 public class Calculator {
 /**
  * Перший параметр калькулятора.
@@ -28,6 +28,7 @@ public Calculator(){
  * @param firstParametr Перший параметр, який буде призначено відвовідній змінній.
  * @param secondParametr Другий параметр, який буде призначено відвовідній змінній.
  */
+@CalculatorParams(firstParam = 2, secondParam = 5)
 public Calculator(int firstParametr, int secondParametr){
 	this.firstParametr = firstParametr;
 	this.secondParametr = secondParametr;
