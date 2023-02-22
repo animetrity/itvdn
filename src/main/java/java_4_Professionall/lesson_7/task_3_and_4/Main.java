@@ -22,12 +22,12 @@ public static void main(String[] args) throws ParserConfigurationException, Tran
 	String url = "/home/logrog/IdeaProjects/itvdn/src/main/java/java_4_Professionall/lesson_7/task_3_and_4/file.xml";
 
 
-	System.out.println("Записуєм в файл XML");
-	writeXML(url);
-	System.out.println("Читаєм з файлу за допомогою XMLSAXParser");
+	//System.out.println("Записуєм в файл XML");
+	//writeXML(url);
+	//System.out.println("Читаєм з файлу за допомогою XMLSAXParser");
 	parseXMLSAXParser(url);
-	System.out.println("Читаєм з файлу за допомогою JAXB");
-	parseJAXB(url);
+	//System.out.println("Читаєм з файлу за допомогою JAXB");
+	//parseJAXB(url);
 
 
 }
@@ -77,8 +77,13 @@ public static void parseXMLSAXParser(String url) {
 			boolean street = false;
 			boolean house = false;
 
+			boolean test = false;
+			String text = "";
+
 			@Override
 			public void startElement(String uri, String localName, String qName, Attributes attributes) throws SAXException {
+
+
 				if (qName.equalsIgnoreCase("city")) {
 					city = true;
 				}
