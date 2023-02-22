@@ -4,25 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb9974f5-035c-4bea-87ab-243fd240bc88" name="Changes" comment="019">
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_7/task_3_and_4/City.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_7/task_3_and_4/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_7/task_3_and_4/Street.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_8/task_2/FirstThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_8/task_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_8/task_2/SecondThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_8/task_2/ThirdThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_8/task_3/PriorityRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_8/task_3/PriorityThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_8/task_4/FirstThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_8/task_4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_8/task_4/SecondThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_8/task_5/DeadLockMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_8/task_6/LockMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_8/task_6/LockMain2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+    <list default="true" id="eb9974f5-035c-4bea-87ab-243fd240bc88" name="Changes" comment="020">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_7/task_3_and_4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_7/task_3_and_4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_8/task_6/LockMain2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_8/task_6/LockMain2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +79,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/forWork" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LockMain (1)">
+  <component name="RunManager" selected="Application.LockMain2">
     <configuration name="DeadLockMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java_4_Professionall.lesson_8.task_5.DeadLockMain" />
       <module name="itvdn" />
@@ -148,8 +132,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_4_Professionall.lesson_8.task_5.Main" />
+    <configuration name="LockMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_4_Professionall.lesson_8.task_6.LockMain2" />
       <module name="itvdn" />
       <extension name="coverage">
         <pattern>
@@ -163,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LockMain2" />
         <item itemvalue="Application.LockMain (1)" />
         <item itemvalue="Application.LockMain" />
         <item itemvalue="Application.DeadLockMain (1)" />
         <item itemvalue="Application.DeadLockMain" />
-        <item itemvalue="Application.java_4_Professionall.lesson_8.task_5.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -440,7 +424,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676650836173</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="020">
+      <created>1677083325657</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1677083325657</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -476,7 +467,8 @@
     <MESSAGE value="017" />
     <MESSAGE value="018" />
     <MESSAGE value="019" />
-    <option name="LAST_COMMIT_MESSAGE" value="019" />
+    <MESSAGE value="020" />
+    <option name="LAST_COMMIT_MESSAGE" value="020" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
