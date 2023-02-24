@@ -1,4 +1,4 @@
-package main.java.java_1_Starter.lesson_6.task_8;
+package java_1_Starter.lesson_6.task_8;
 
 public class Rectangle {
     public static void main(String[] args) {

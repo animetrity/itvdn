@@ -1,4 +1,4 @@
-package main.java.java_3_Essential.lesson_8.task_5;
+package java_3_Essential.lesson_8.task_5;
 
 public class Animal {
     String name;

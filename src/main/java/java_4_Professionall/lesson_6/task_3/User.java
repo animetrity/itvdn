@@ -1,4 +1,4 @@
-package main.java.java_4_Professionall.lesson_6.task_3;
+package java_4_Professionall.lesson_6.task_3;
 
 import java.lang.annotation.*;
 /**

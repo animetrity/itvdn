@@ -5,30 +5,8 @@ k
 ;src/main/java/java_4_Professionall/lesson_4/task_2/file.txt,6/d/6df672c5dcd811baee491232cbb7ca9106e62158
 u
 Esrc/main/java/java_4_Professionall/lesson_3/task_4/resources/file.txt,1/8/18bbf9904aa265b5cc7b7736fae3846675da90c8
-l
-<src/main/java/java_4_Professionall/lesson_3/task_4/Main.java,7/e/7e2d46494949d9f17c08e3d18802d07be002c222
-r
-Bsrc/main/java/java_4_Professionall/lesson_4/task_2/Descryptor.java,6/7/6771f9d8106462f26f99660b779c0ba54ae72436
-l
-<src/main/java/java_4_Professionall/lesson_5/task_2/Main.java,5/7/5746595ae831e9135ea24d37a9bb617ca25df33e
-V
-&src/main/java/java_2_Git/ListNode.java,9/a/9a55b1a27cfa9f4bebc676084077c541a79ee187
-x
-Hsrc/main/java/java_4_Professionall/lesson_6/task_2/CalculatorParams.java,f/2/f2f6832b5bdf8d1fab24256ab11ad5c84c98a4b4
-l
-<src/main/java/java_4_Professionall/lesson_6/task_4/Math.java,2/e/2e491f62089344e87b463435c988b450568aab84
-r
-Bsrc/main/java/java_4_Professionall/lesson_6/task_4/Calculator.java,b/e/beb6e2c7bdfb03620cc2f8ad7d01c45823110ea7
-l
-<src/main/java/java_4_Professionall/lesson_6/task_3/Main.java,d/2/d2ec1aa432c6c84a7f23774a375c3b17aa0b8db9
-r
-Bsrc/main/java/java_4_Professionall/lesson_6/task_3/SecondMain.java,0/c/0ce6f29d4ee3eefc414a277e4ea74590e00b5085
-l
-<src/main/java/java_4_Professionall/lesson_6/task_3/User.java,d/a/daffab344f5b58d5bef8c9636a2611a3db162bdc
 v
 F.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml,a/a/aacb7d6eb9dd5dbacb525386cd565fc743b22dab
-9
-	itvdn.iml,a/7/a7eef8de0bc803a96d717c0725ae982f92e8d90a
 v
 F.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml,e/1/e11341d3ba4ad50769e9b2a775f4ef6e765e0f51
 w
@@ -43,8 +21,6 @@ w
 G.idea/sonarlint/issuestore/6/d/6df672c5dcd811baee491232cbb7ca9106e62158,7/f/7f1608a06cc82c19bb08c3b03d85d948a54c58fc
 w
 G.idea/sonarlint/issuestore/1/8/18bbf9904aa265b5cc7b7736fae3846675da90c8,5/2/52c5ea98ddeb738368a3c09ee7ce8a088725b924
-r
-Bsrc/main/java/java_4_Professionall/lesson_6/task_2/Calculator.java,1/a/1adab38c4dd7e9680e85f96d2a88ad44a47eea42
 R
 "src/main/java/java_2_Git/Test.java,2/a/2adca59d3b90984fbaa169a9aff8ae225558f2a5
 m
@@ -52,5 +28,9 @@ m
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
-n
->src/main/java/java_4_Professionall/lesson_5/task_4/Animal.java,3/4/34e84e1b3f1c886ee7bcea33d60373c784d69480
+l
+<src/main/java/java_4_Professionall/lesson_8/task_2/Main.java,c/4/c4b54c5c255c52a134f7659eba9523b1b7805926
+t
+Dsrc/main/java/java_4_Professionall/lesson_8/task_2/SecondThread.java,6/5/651ba3fe7f27400cab30f42d16b2791fbdb7ea4e
+s
+Csrc/main/java/java_4_Professionall/lesson_8/task_2/ThirdThread.java,3/4/34a32368b4e571ae317f08bc81aeb12d82c17227

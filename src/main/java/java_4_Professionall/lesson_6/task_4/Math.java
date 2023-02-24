@@ -1,4 +1,4 @@
-package main.java.java_4_Professionall.lesson_6.task_4;
+package java_4_Professionall.lesson_6.task_4;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

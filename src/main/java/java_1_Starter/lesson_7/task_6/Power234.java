@@ -1,4 +1,4 @@
-package main.java.java_1_Starter.lesson_7.task_6;
+package java_1_Starter.lesson_7.task_6;
 
 public class Power234 {
     public static void main(String[] args) {

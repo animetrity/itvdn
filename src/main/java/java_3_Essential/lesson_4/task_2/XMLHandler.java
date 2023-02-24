@@ -1,4 +1,4 @@
-package main.java.java_3_Essential.lesson_4.task_2;
+package java_3_Essential.lesson_4.task_2;
 
 public class XMLHandler extends AbstractHandler{
     @Override

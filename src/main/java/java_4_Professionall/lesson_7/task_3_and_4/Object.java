@@ -1,4 +1,4 @@
-package main.java.java_4_Professionall.lesson_7.task_3_and_4;
+package java_4_Professionall.lesson_7.task_3_and_4;
 
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;

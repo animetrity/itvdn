@@ -1,4 +1,4 @@
-package main.java.java_4_Professionall.lesson_7.task_3_and_4;
+package java_4_Professionall.lesson_7.task_3_and_4;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;

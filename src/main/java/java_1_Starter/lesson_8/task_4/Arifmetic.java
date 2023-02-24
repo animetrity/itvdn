@@ -1,4 +1,4 @@
-package main.java.java_1_Starter.lesson_8.task_4;
+package java_1_Starter.lesson_8.task_4;
 
 public class Arifmetic {
     public static void main(String[] args) {

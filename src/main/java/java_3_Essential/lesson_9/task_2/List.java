@@ -1,4 +1,4 @@
-package main.java.java_3_Essential.lesson_9.task_2;
+package java_3_Essential.lesson_9.task_2;
 
 
 public class List {

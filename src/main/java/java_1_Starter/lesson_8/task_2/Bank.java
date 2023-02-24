@@ -1,4 +1,4 @@
-package main.java.java_1_Starter.lesson_8.task_2;
+package java_1_Starter.lesson_8.task_2;
 
 import java.util.HashMap;
 import java.util.Map;

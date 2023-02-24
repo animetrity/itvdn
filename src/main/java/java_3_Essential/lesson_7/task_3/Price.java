@@ -1,4 +1,4 @@
-package main.java.java_3_Essential.lesson_7.task_3;
+package java_3_Essential.lesson_7.task_3;
 
 public class Price {
     String nameProduct;

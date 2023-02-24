@@ -1,4 +1,4 @@
-package main.java.java_3_Essential.lesson_9.task_5;
+package java_3_Essential.lesson_9.task_5;
 
 import java.time.LocalDateTime;
 

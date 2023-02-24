@@ -1,4 +1,4 @@
-package main.java.java_4_Professionall.lesson_1.task_3.interface_comparable;
+package java_4_Professionall.lesson_1.task_3.interface_comparable;
 
 import java.util.Arrays;
 

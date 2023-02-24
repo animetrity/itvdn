@@ -1,4 +1,4 @@
-package main.java.java_1_Starter.lesson_5.task_3;
+package java_1_Starter.lesson_5.task_3;
 
 public class LogicOperations {
     public static void main(String[] args) {

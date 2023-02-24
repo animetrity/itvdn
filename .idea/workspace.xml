@@ -5,7 +5,65 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb9974f5-035c-4bea-87ab-243fd240bc88" name="Changes" comment="020">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/1/010dea03000301f90ac79b776560baf825dfcdaf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/f/1f7903bb532066e1bfc95798d2bb399a9078b2d1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/a/2adca59d3b90984fbaa169a9aff8ae225558f2a5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/1/31c25e7aafe69d32cc66e3c3bda1ce142e88ce70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/4/34a32368b4e571ae317f08bc81aeb12d82c17227" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/4/34e84e1b3f1c886ee7bcea33d60373c784d69480" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/52c5ea98ddeb738368a3c09ee7ce8a088725b924" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/5746595ae831e9135ea24d37a9bb617ca25df33e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/5/651ba3fe7f27400cab30f42d16b2791fbdb7ea4e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7f1608a06cc82c19bb08c3b03d85d948a54c58fc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/a/9a55b1a27cfa9f4bebc676084077c541a79ee187" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/2/a2c249d3925e2c040835368e8fe52698abc5188d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/4/a409ceb2fda2e81cf280f8b67246cb884a288290" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/7/a7eef8de0bc803a96d717c0725ae982f92e8d90a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/a/aacb7d6eb9dd5dbacb525386cd565fc743b22dab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/4/c4b54c5c255c52a134f7659eba9523b1b7805926" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/3/d37c95a03263e8208166edab91fee0afa341ce55" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/1/e11341d3ba4ad50769e9b2a775f4ef6e765e0f51" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_9/task_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_9/task_3/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_9/task_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_9/task_4/Calculate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itvdn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/itvdn.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/forWork/FromWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/forWork/FromWork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_2_Git/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_2_Git/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_7/task_5/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_7/task_5/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_7/task_5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_7/task_5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_8/task_2_3_4/Device.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_8/task_2_3_4/Device.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_8/task_2_3_4/EthernetAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_8/task_2_3_4/EthernetAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_8/task_2_3_4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_8/task_2_3_4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_8/task_2_3_4/Monitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_8/task_2_3_4/Monitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_8/task_5/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_8/task_5/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_3/task_2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_3/task_2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_3/task_4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_3/task_4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_4/task_3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_4/task_3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_4/task_4/DeamonThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_4/task_4/DeamonThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_5/task_2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_5/task_2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_5/task_3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_5/task_3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_5/task_3/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_5/task_3/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_5/task_4/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_5/task_4/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_5/task_4/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_5/task_4/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_6/task_2/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_6/task_2/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_6/task_2/CalculatorParams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_6/task_2/CalculatorParams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_6/task_3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_6/task_3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_6/task_3/SecondMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_6/task_3/SecondMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_6/task_3/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_6/task_3/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_6/task_4/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_6/task_4/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_6/task_4/Math.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_6/task_4/Math.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_7/task_2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_7/task_2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_7/task_3_and_4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_7/task_3_and_4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_7/task_3_and_4/Object.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_7/task_3_and_4/Object.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_8/task_6/LockMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_8/task_6/LockMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_8/task_6/LockMain2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_8/task_6/LockMain2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,30 +100,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "true",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/logrog/IdeaProjects/itvdn/src/main/java/java_4_Professionall/lesson_8/task_5",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.37241378",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/logrog/IdeaProjects/itvdn/src/main/java/java_4_Professionall/lesson_8/task_5&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.37241378&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_8/task_5" />
@@ -79,7 +137,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/forWork" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LockMain2">
+  <component name="RunManager" selected="Application.java_4_Professionall.lesson_9.task_3.Main">
     <configuration name="DeadLockMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java_4_Professionall.lesson_8.task_5.DeadLockMain" />
       <module name="itvdn" />
@@ -95,19 +153,6 @@
     </configuration>
     <configuration name="DeadLockMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java_4_Professionall.lesson_8.task_5.DeadLockMain" />
-      <module name="itvdn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_4_Professionall.lesson_8.task_6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LockMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_4_Professionall.lesson_8.task_6.LockMain" />
       <module name="itvdn" />
       <extension name="coverage">
         <pattern>
@@ -145,12 +190,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LockMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_4_Professionall.lesson_8.task_6.LockMain" />
+      <module name="itvdn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_4_Professionall.lesson_8.task_6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_4_Professionall.lesson_9.task_2.Main" />
+      <module name="itvdn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_4_Professionall.lesson_9.task_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java_4_Professionall.lesson_9.task_3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_4_Professionall.lesson_9.task_3.Main" />
+      <module name="itvdn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_4_Professionall.lesson_9.task_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.java_4_Professionall.lesson_9.task_3.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.LockMain2" />
-        <item itemvalue="Application.LockMain (1)" />
         <item itemvalue="Application.LockMain" />
-        <item itemvalue="Application.DeadLockMain (1)" />
         <item itemvalue="Application.DeadLockMain" />
       </list>
     </recent_temporary>
@@ -431,7 +515,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677083325657</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="020">
+      <created>1677084569233</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1677084569233</updated>
+    </task>
+    <task id="LOCAL-00037" summary="020">
+      <created>1677084586512</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1677084586512</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

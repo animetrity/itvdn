@@ -1,4 +1,4 @@
-package main.java.java_3_Essential.lesson_4.task_3;
+package java_3_Essential.lesson_4.task_3;
 
 import java.util.ArrayList;
 import java.util.Scanner;

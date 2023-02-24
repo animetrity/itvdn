@@ -1,9 +1,5 @@
-package main.java.java_3_Essential;
+package java_3_Essential;
 
-import main.java.java_3_Essential.lesson_7.task_2.Worker;
-
-import java.io.*;
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Test {

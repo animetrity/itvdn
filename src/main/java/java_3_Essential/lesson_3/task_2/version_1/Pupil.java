@@ -1,4 +1,4 @@
-package main.java.java_3_Essential.lesson_3.task_2.version_1;
+package java_3_Essential.lesson_3.task_2.version_1;
 
 public class Pupil {
     void study(){

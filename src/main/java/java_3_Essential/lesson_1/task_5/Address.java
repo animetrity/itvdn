@@ -1,4 +1,4 @@
-package main.java.java_3_Essential.lesson_1.task_5;
+package java_3_Essential.lesson_1.task_5;
 
 public class Address {
     private int index;

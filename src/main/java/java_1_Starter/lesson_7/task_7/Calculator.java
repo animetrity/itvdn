@@ -1,4 +1,4 @@
-package main.java.java_1_Starter.lesson_7.task_7;
+package java_1_Starter.lesson_7.task_7;
 
 public class Calculator {
     public static void main(String[] args) {

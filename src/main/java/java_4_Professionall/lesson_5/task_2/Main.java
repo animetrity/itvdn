@@ -1,4 +1,4 @@
-package main.java.java_4_Professionall.lesson_5.task_2;
+package java_4_Professionall.lesson_5.task_2;
 
 import java.lang.reflect.Member;
 import java.util.Scanner;

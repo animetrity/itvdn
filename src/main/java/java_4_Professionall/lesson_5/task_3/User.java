@@ -1,4 +1,4 @@
-package main.java.java_4_Professionall.lesson_5.task_3;
+package java_4_Professionall.lesson_5.task_3;
 
 public class User {
 protected int age;

@@ -1,4 +1,4 @@
-package main.java.java_4_Professionall.lesson_4.task_2;
+package java_4_Professionall.lesson_4.task_2;
 
 import java.io.*;
 import java.util.regex.Matcher;

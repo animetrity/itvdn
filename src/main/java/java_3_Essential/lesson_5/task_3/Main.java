@@ -1,6 +1,6 @@
-package main.java.java_3_Essential.lesson_5.task_3;
+package java_3_Essential.lesson_5.task_3;
 
-import main.java.java_3_Essential.lesson_5.task_2.Zoo;
+import java_3_Essential.lesson_5.task_2.Zoo;
 
 public class Main {
     public static void main(String[] args) {

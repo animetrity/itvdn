@@ -1,4 +1,4 @@
-package main.java.java_4_Professionall.lesson_6.task_4;
+package java_4_Professionall.lesson_6.task_4;
 public class Calculator {
 
 public static void main(String[] args) throws NoSuchMethodException {

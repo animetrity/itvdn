@@ -1,4 +1,4 @@
-package main.java.java_1_Starter.lesson_6.task_5;
+package java_1_Starter.lesson_6.task_5;
 
 public class SumMax {
     public static void main(String[] args) {

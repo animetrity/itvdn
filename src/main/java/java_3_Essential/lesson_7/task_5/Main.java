@@ -1,4 +1,4 @@
-package main.java.java_3_Essential.lesson_7.task_5;
+package java_3_Essential.lesson_7.task_5;
 
 import java.io.BufferedReader;
 import java.io.IOException;

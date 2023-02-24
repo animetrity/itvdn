@@ -1,4 +1,4 @@
-package main.java.java_3_Essential.lesson_3.task_4;
+package java_3_Essential.lesson_3.task_4;
 
 public class ProDocumentWorker extends DocumentWorker{
     @Override

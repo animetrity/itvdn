@@ -1,4 +1,4 @@
-package main.java.forWork;
+package forWork;
 
 import java.io.*;
 import java.util.ArrayList;

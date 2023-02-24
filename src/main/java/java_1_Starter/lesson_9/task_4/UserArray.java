@@ -1,4 +1,4 @@
-package main.java.java_1_Starter.lesson_9.task_4;
+package java_1_Starter.lesson_9.task_4;
 
 public class UserArray {
     public static void main(String[] args) {

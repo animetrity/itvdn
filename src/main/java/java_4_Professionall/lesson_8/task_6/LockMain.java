@@ -3,10 +3,8 @@ package java_4_Professionall.lesson_8.task_6;
 import java.util.concurrent.locks.ReentrantLock;
 
 
-
-
 /**
-У цьому класі використаний клас ReentrantLock для того  щоб уникнути DeadLock
+ * У цьому класі використаний клас ReentrantLock для того  щоб уникнути DeadLock
  */
 public class LockMain {
 	public static void main(String[] args) {
@@ -20,60 +18,62 @@ public class LockMain {
 	}
 }
 
-class FirstLockThread extends Thread{
-private final ReentrantLock lock1;
-private final ReentrantLock lock2;
+class FirstLockThread extends Thread {
+	private final ReentrantLock lock1;
+	private final ReentrantLock lock2;
 
 
-public FirstLockThread(ReentrantLock lock1, ReentrantLock lock2) {
-	this.lock1 = lock1;
-	this.lock2 = lock2;
-}
+	public FirstLockThread(ReentrantLock lock1, ReentrantLock lock2) {
+		this.lock1 = lock1;
+		this.lock2 = lock2;
+	}
 
-@Override
-public void run(){
-	System.out.println("FirstThread is start");
-	lock1.lock();
-	try {
-		Thread.sleep(1000);
-		lock2.lock();
+	@Override
+	public void run() {
+		System.out.println("FirstThread is start");
+		lock1.lock();
 		try {
-			System.out.println("FirstThread is finish");
+			Thread.sleep(1000);
+			lock2.lock();
+			try {
+				System.out.println("FirstThread is finish");
+			} finally {
+				lock2.unlock();
+			}
+		} catch (InterruptedException e) {
+			throw new RuntimeException(e);
 		} finally {
-			lock2.unlock();
+			lock1.unlock();
 		}
-	} catch (InterruptedException e) {
-		throw new RuntimeException(e);
-	} finally {
-		lock1.unlock();
 	}
 }
-}
 
-class SecondLockThread extends Thread{
-private final ReentrantLock lock1;
-private final ReentrantLock lock2;
-public SecondLockThread(ReentrantLock lock1, ReentrantLock lock2) {
-	this.lock1 = lock1;
-	this.lock2 = lock2;
-}
-@Override
-public void run(){
-	System.out.println("SecondThread is start");
+class SecondLockThread extends Thread {
+	private final ReentrantLock lock1;
+	private final ReentrantLock lock2;
 
-	lock1.lock();
-	try {
-		Thread.sleep(1000);
-		lock2.lock();
-		try {
-			System.out.println("SecondThread is finish");
-		} finally {
-			lock2.unlock();
-		}
-	} catch (InterruptedException e) {
-		throw new RuntimeException(e);
-	} finally {
-		lock1.unlock();
+	public SecondLockThread(ReentrantLock lock1, ReentrantLock lock2) {
+		this.lock1 = lock1;
+		this.lock2 = lock2;
 	}
-}
+
+	@Override
+	public void run() {
+		System.out.println("SecondThread is start");
+
+		lock1.lock();
+		try {
+			Thread.sleep(1000);
+			lock2.lock();
+			try {
+				System.out.println("SecondThread is finish");
+			} finally {
+				lock2.unlock();
+			}
+		} catch (InterruptedException e) {
+			throw new RuntimeException(e);
+		} finally {
+			lock1.unlock();
+		}
+	}
 }

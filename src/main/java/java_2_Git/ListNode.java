@@ -1,4 +1,4 @@
-package main.java.java_2_Git;
+package java_2_Git;
 
 public class ListNode {
 int val;

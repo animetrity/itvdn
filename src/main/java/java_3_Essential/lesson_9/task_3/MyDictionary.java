@@ -1,4 +1,4 @@
-package main.java.java_3_Essential.lesson_9.task_3;
+package java_3_Essential.lesson_9.task_3;
 
 import java.util.ArrayList;
 

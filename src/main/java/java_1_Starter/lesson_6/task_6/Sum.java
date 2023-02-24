@@ -1,4 +1,4 @@
-package main.java.java_1_Starter.lesson_6.task_6;
+package java_1_Starter.lesson_6.task_6;
 
 public class Sum {
     public static void main(String[] args) {

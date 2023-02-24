@@ -1,4 +1,4 @@
-package main.java.java_1_Starter.lesson_5.task_6;
+package java_1_Starter.lesson_5.task_6;
 
 public class DeMorganComparison {
     public static void main(String[] args) {

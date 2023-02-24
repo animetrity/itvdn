@@ -1,4 +1,4 @@
-package main.java.java_3_Essential.lesson_8.task_2_3_4;
+package java_3_Essential.lesson_8.task_2_3_4;
 
 public class Monitor extends Device{
     private int resolutionX;

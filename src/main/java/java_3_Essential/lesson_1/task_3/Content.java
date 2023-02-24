@@ -1,4 +1,4 @@
-package main.java.java_3_Essential.lesson_1.task_3;
+package java_3_Essential.lesson_1.task_3;
 
 public class Content {
     private String text;

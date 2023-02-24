@@ -1,4 +1,4 @@
-package main.java.java_4_Professionall.lesson_5.task_4;
+package java_4_Professionall.lesson_5.task_4;
 
 import java.io.Serializable;
 

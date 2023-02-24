@@ -1,4 +1,4 @@
-package main.java.java_1_Starter.lesson_1.task_3;
+package java_1_Starter.lesson_1.task_3;
 
 public class Hi {
     public static void main(String[] args) {

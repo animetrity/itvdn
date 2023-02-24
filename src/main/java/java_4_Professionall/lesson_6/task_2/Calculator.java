@@ -1,4 +1,4 @@
-package main.java.java_4_Professionall.lesson_6.task_2;
+package java_4_Professionall.lesson_6.task_2;
 /**
  * @author Anatolii Kosiuta
  * @version 1.0

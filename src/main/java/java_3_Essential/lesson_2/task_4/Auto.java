@@ -1,4 +1,4 @@
-package main.java.java_3_Essential.lesson_2.task_4;
+package java_3_Essential.lesson_2.task_4;
 
 public class Auto {
     private int year;

@@ -1,4 +1,4 @@
-package main.java.java_3_Essential;
+package java_3_Essential;
 
 
 import java.io.File;

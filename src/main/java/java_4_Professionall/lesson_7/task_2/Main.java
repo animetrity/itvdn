@@ -1,6 +1,6 @@
-package main.java.java_4_Professionall.lesson_7.task_2;
+package java_4_Professionall.lesson_7.task_2;
 
-import main.java.java_4_Professionall.lesson_5.task_4.Animal;
+import java_4_Professionall.lesson_5.task_4.Animal;
 
 import java.io.*;
 

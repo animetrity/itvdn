@@ -1,4 +1,4 @@
-package main.java.java_1_Starter.lesson_4.task_7;
+package java_1_Starter.lesson_4.task_7;
 
 import java.time.LocalDate;
 

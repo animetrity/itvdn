@@ -1,4 +1,4 @@
-package main.java.java_3_Essential.lesson_6.task_4;
+package java_3_Essential.lesson_6.task_4;
 
 public enum Vehicles {
     BLUE(25000),

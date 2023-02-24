@@ -1,6 +1,4 @@
-package main.java.java_3_Essential.lesson_6.task_4;
-
-import main.java.java_3_Essential.lesson_6.task_2.Animals;
+package java_3_Essential.lesson_6.task_4;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package main.java.java_1_Starter.lesson_4.task_4;
+package java_1_Starter.lesson_4.task_4;
 
 public class Number {
     public static void main(String[] args) {

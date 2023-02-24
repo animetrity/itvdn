@@ -1,4 +1,4 @@
-package main.java.java_1_Starter.lesson_6.task_7;
+package java_1_Starter.lesson_6.task_7;
 
 public class MultiplicationTable {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package main.java.java_3_Essential.lesson_4.task_5;
+package java_3_Essential.lesson_4.task_5;
 
 public class ConverterTemperatureKelvin extends ConverterTemperature{
     @Override

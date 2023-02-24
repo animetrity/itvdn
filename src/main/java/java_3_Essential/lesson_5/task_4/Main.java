@@ -1,4 +1,4 @@
-package main.java.java_3_Essential.lesson_5.task_4;
+package java_3_Essential.lesson_5.task_4;
 
 import java.util.ArrayList;
 import java.util.Iterator;

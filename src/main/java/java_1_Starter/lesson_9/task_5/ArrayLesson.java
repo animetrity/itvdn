@@ -1,4 +1,4 @@
-package main.java.java_1_Starter.lesson_9.task_5;
+package java_1_Starter.lesson_9.task_5;
 
 public class ArrayLesson {
     public static void main(String[] args) {

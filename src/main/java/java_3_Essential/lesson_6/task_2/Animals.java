@@ -1,4 +1,4 @@
-package main.java.java_3_Essential.lesson_6.task_2;
+package java_3_Essential.lesson_6.task_2;
 
 public enum Animals {
     DOG(5),

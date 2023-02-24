@@ -1,4 +1,4 @@
-package main.java.java_1_Starter.lesson_5.task_5;
+package java_1_Starter.lesson_5.task_5;
 
 public class PowerOfTwo {
     public static void main(String[] args) {
