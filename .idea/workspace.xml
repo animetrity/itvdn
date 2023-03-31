@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb9974f5-035c-4bea-87ab-243fd240bc88" name="Changes" comment="replace package main.java. to package">
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_5_mysql/lesson_2/task_2/lesson_2_task_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+    <list default="true" id="eb9974f5-035c-4bea-87ab-243fd240bc88" name="Changes" comment="lesson_2_task_4">
+      <change afterPath="$PROJECT_DIR$/src/main/java/java_5_mysql/sql.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,9 +27,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/main/java/java_2_Git/calculator.java" root0="FORCE_HIGHLIGHTING" />
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -45,6 +42,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
     &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
     &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
@@ -54,7 +52,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/logrog/IdeaProjects/itvdn/src/main/java/java_4_Professionall/lesson_8/task_5&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/logrog/IdeaProjects/itvdn/src/main/java/java_5_mysql/lesson_2/task_4&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -69,13 +67,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/java_5_mysql/lesson_2/task_4" />
+      <recent name="$PROJECT_DIR$/src/main/java/java_5_mysql/lesson_3" />
       <recent name="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_8/task_5" />
       <recent name="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_4/task_2" />
       <recent name="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_1/task_3" />
-      <recent name="$PROJECT_DIR$/src/main/java/java_3_Essential" />
-      <recent name="$PROJECT_DIR$/src/main/java/java_3_Essential/lesson_9" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/java_5_mysql/lesson_2/task_4" />
       <recent name="$PROJECT_DIR$/src/main/java/java_4_Professionall/lesson_3/task_4/resources" />
       <recent name="$PROJECT_DIR$/src/main/java/forWork" />
     </key>
@@ -212,6 +211,7 @@
       <workItem from="1675802441778" duration="615000" />
       <workItem from="1675855198872" duration="3495000" />
       <workItem from="1675973052884" duration="28000" />
+      <workItem from="1679653849448" duration="51000" />
     </task>
     <task id="LOCAL-00001" summary="001">
       <created>1670933234358</created>
@@ -479,7 +479,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677234656323</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="lesson_2_task_4">
+      <created>1678648718433</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1678648718433</updated>
+    </task>
+    <task id="LOCAL-00040" summary="lesson_2_task_4">
+      <created>1678648900309</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1678648900309</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -497,6 +511,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="001" />
     <MESSAGE value="002" />
     <MESSAGE value="003" />
@@ -517,7 +532,8 @@
     <MESSAGE value="019" />
     <MESSAGE value="020" />
     <MESSAGE value="replace package main.java. to package" />
-    <option name="LAST_COMMIT_MESSAGE" value="replace package main.java. to package" />
+    <MESSAGE value="lesson_2_task_4" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson_2_task_4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
