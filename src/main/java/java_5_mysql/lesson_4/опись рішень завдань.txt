@@ -92,10 +92,11 @@ CROSS JOIN - це тип з'єднання, який повертає декар
 **Завдання 6**
 
 ```
-SELECT Customers.CustomerName, Employees.EmployeeName
-FROM Customers
-JOIN Orders ON Customers.CustomerID = Orders.CustomerID
-JOIN Employees ON Orders.EmployeeID = Employees.EmployeeID
-WHERE Orders.TotalPrice > 1000;
+SELECT c.FName as CustomerFName, c.LName as CustomerLName, e.FName as EmployeeFName, e.LName as EmployeeLName
+FROM Orders o
+JOIN OrderDetails od ON o.OrderID = od.OrderID
+JOIN Customers c ON o.CustomerNo = c.CustomerNo
+JOIN Employees e ON o.EmployeeID = e.EmployeeID
+WHERE od.TotalPrice > 1000;
 
 ```
