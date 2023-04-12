@@ -1,0 +1,101 @@
+**Завдання 2**
+
+```
+CREATE DATABASE MyJoinsDB;
+
+```
+
+**Завдання 3**
+
+```
+CREATE TABLE Employees (
+  EmployeeID INT PRIMARY KEY,
+  EmployeeName VARCHAR(50),
+  PhoneNumber VARCHAR(20),
+  PositionID INT,
+  FamilyStatusID INT
+);
+
+CREATE TABLE Positions (
+  PositionID INT PRIMARY KEY,
+  PositionName VARCHAR(50)
+);
+
+CREATE TABLE Salaries (
+  SalaryID INT PRIMARY KEY,
+  EmployeeID INT,
+  Salary DECIMAL(10, 2),
+  PositionID INT,
+  CONSTRAINT FK_Positions_Salaries FOREIGN KEY (PositionID) REFERENCES Positions(PositionID)
+);
+
+CREATE TABLE FamilyStatuses (
+  FamilyStatusID INT PRIMARY KEY,
+  StatusName VARCHAR(50),
+  BirthDate DATE,
+  Address VARCHAR(100),
+  EmployeeID INT,
+  CONSTRAINT FK_Employees_FamilyStatuses FOREIGN KEY (EmployeeID) REFERENCES Employees(EmployeeID)
+);
+
+```
+
+**Завдання 4**
+1.
+
+```
+SELECT Employees.PhoneNumber, FamilyStatuses.Address
+FROM Employees
+JOIN FamilyStatuses ON Employees.EmployeeID = FamilyStatuses.EmployeeID;
+
+```
+
+2. 
+
+```
+SELECT FamilyStatuses.BirthDate, Employees.EmployeeID
+FROM Employees
+JOIN FamilyStatuses ON Employees.EmployeeID = FamilyStatuses.EmployeeID
+WHERE FamilyStatuses.StatusName = 'Неодружений';
+
+```
+
+3. 
+
+```
+SELECT FamilyStatuses.BirthDate, Employees.PhoneNumber
+FROM Employees
+JOIN FamilyStatuses ON Employees.EmployeeID = FamilyStatuses.EmployeeID
+JOIN Salaries ON Employees.EmployeeID = Salaries.EmployeeID
+JOIN Positions ON Positions.PositionID = Salaries.PositionID
+WHERE Positions.PositionName = 'Менеджер';
+
+```
+
+**Завдання 5**
+
+INNER JOIN: https://www.w3schools.com/sql/sql_join_inner.asp
+INNER JOIN - це тип з'єднання в SQL, що повертає тільки ті рядки, які мають збіг в обох таблицях за умовою, вказаною у фразі "ON".
+
+LEFT OUTER JOIN: https://www.w3schools.com/sql/sql_join_left.asp
+LEFT OUTER JOIN - це тип з'єднання, який повертає всі рядки з лівої таблиці та ті рядки з правої таблиці, які мають збіг за умовою, вказаною у фразі "ON".
+
+RIGHT OUTER JOIN: https://www.w3schools.com/sql/sql_join_right.asp
+RIGHT OUTER JOIN - це тип з'єднання, який повертає всі рядки з правої таблиці та ті рядки з лівої таблиці, які мають збіг за умовою, вказаною у фразі "ON".
+
+FULL OUTER JOIN: https://www.w3schools.com/sql/sql_join_full.asp
+FULL OUTER JOIN - це тип з'єднання, який повертає всі рядки з обох таблиць, при цьому рядки, які не мають збігу з іншою таблицею, заповнюються значеннями NULL.
+
+CROSS JOIN: https://www.w3schools.com/sql/sql_join_cross.asp
+CROSS JOIN - це тип з'єднання, який повертає декартов добуток рядків з обох таблиць, що призводить до повного з'єднання даних з обох таблиць без урахування будь-якої умови з'єднання.
+
+**Завдання 6**
+
+```
+SELECT Customers.CustomerName, Employees.EmployeeName
+FROM Customers
+JOIN Orders ON Customers.CustomerID = Orders.CustomerID
+JOIN Employees ON Orders.EmployeeID = Employees.EmployeeID
+WHERE Orders.TotalPrice > 1000;
+
+```
