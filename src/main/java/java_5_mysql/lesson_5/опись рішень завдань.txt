@@ -42,17 +42,30 @@ CREATE TABLE FamilyStatuses (
 
 **Завдання 4**
 1. SELECT PhoneNumber, Address
-   FROM FamilyStatuses
-   INNER JOIN Employees ON FamilyStatuses.EmployeeID = Employees.EmployeeID;
+FROM FamilyStatuses
+INNER JOIN (
+  SELECT EmployeeID
+  FROM Employees
+) AS emp ON FamilyStatuses.EmployeeID = emp.EmployeeID;
+
 2. SELECT EmployeeID, BirthDate
-   FROM FamilyStatuses
-   WHERE StatusName = 'Неодружений';
+FROM (
+  SELECT EmployeeID, StatusName, BirthDate
+  FROM FamilyStatuses
+) AS fs
+WHERE fs.StatusName = 'Неодружений';
 
 3. SELECT PhoneNumber, BirthDate
-   FROM FamilyStatuses
-   INNER JOIN Employees ON FamilyStatuses.EmployeeID = Employees.EmployeeID
-   INNER JOIN Positions ON Employees.PositionID = Positions.PositionID
-   WHERE Positions.PositionName = 'Менеджер';
+FROM FamilyStatuses
+INNER JOIN (
+  SELECT EmployeeID, PositionID
+  FROM Employees
+) AS emp ON FamilyStatuses.EmployeeID = emp.EmployeeID
+INNER JOIN (
+  SELECT PositionID
+  FROM Positions
+  WHERE PositionName = 'Менеджер'
+) AS pos ON emp.PositionID = pos.PositionID;
 
 
 ```
@@ -70,8 +83,11 @@ CREATE TABLE FamilyStatuses (
 SELECT c.FName AS CustomerFirstName, c.LName AS CustomerLastName, e.FName AS EmployeeFirstName, e.LName AS EmployeeLastName
 FROM Customers c
 JOIN Orders o ON c.CustomerNo = o.CustomerNo
-JOIN OrderDetails od ON o.OrderID = od.OrderID
 JOIN Employees e ON o.EmployeeID = e.EmployeeID
-WHERE od.TotalPrice > 1000;
+WHERE o.OrderID IN (
+  SELECT od.OrderID
+  FROM OrderDetails od
+  WHERE od.TotalPrice > 1000
+);
 
 ```
