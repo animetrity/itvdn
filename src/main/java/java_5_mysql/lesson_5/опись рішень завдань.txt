@@ -1,0 +1,77 @@
+**Завдання 2**
+
+```
+CREATE DATABASE MyJoinsDB;
+
+```
+
+**Завдання 3**
+
+```
+CREATE TABLE Employees (
+  EmployeeID INT PRIMARY KEY,
+  EmployeeName VARCHAR(50),
+  PhoneNumber VARCHAR(20),
+  PositionID INT,
+  FamilyStatusID INT
+);
+
+CREATE TABLE Positions (
+  PositionID INT PRIMARY KEY,
+  PositionName VARCHAR(50)
+);
+
+CREATE TABLE Salaries (
+  SalaryID INT PRIMARY KEY,
+  EmployeeID INT,
+  Salary DECIMAL(10, 2),
+  PositionID INT,
+  CONSTRAINT FK_Positions_Salaries FOREIGN KEY (PositionID) REFERENCES Positions(PositionID)
+);
+
+CREATE TABLE FamilyStatuses (
+  FamilyStatusID INT PRIMARY KEY,
+  StatusName VARCHAR(50),
+  BirthDate DATE,
+  Address VARCHAR(100),
+  EmployeeID INT,
+  CONSTRAINT FK_Employees_FamilyStatuses FOREIGN KEY (EmployeeID) REFERENCES Employees(EmployeeID)
+);
+
+```
+
+**Завдання 4**
+1. SELECT PhoneNumber, Address
+   FROM FamilyStatuses
+   INNER JOIN Employees ON FamilyStatuses.EmployeeID = Employees.EmployeeID;
+2. SELECT EmployeeID, BirthDate
+   FROM FamilyStatuses
+   WHERE StatusName = 'Неодружений';
+
+3. SELECT PhoneNumber, BirthDate
+   FROM FamilyStatuses
+   INNER JOIN Employees ON FamilyStatuses.EmployeeID = Employees.EmployeeID
+   INNER JOIN Positions ON Employees.PositionID = Positions.PositionID
+   WHERE Positions.PositionName = 'Менеджер';
+
+
+```
+
+**Завдання 5**
+Ссилка на сторінку про вкладені запити (subqueries) на сайті www.w3schools.com: https://www.w3schools.com/sql/sql_subqueries.asp
+
+Вкладені запити - це запити, які виконуються в середині інших запитів. Їх використовують,
+коли необхідно отримати додаткову інформацію для обробки запиту або виконання операцій над даними.
+Вкладені запити можуть бути використані в різних контекстах, таких як SELECT, INSERT, UPDATE і DELETE.
+
+**Завдання 6**
+
+```
+SELECT c.FName AS CustomerFirstName, c.LName AS CustomerLastName, e.FName AS EmployeeFirstName, e.LName AS EmployeeLastName
+FROM Customers c
+JOIN Orders o ON c.CustomerNo = o.CustomerNo
+JOIN OrderDetails od ON o.OrderID = od.OrderID
+JOIN Employees e ON o.EmployeeID = e.EmployeeID
+WHERE od.TotalPrice > 1000;
+
+```
